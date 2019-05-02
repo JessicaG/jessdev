@@ -14,14 +14,12 @@ I’m the eldest of four, and my parents divorced when I was eleven. Life for my
 ![family](/assets/family-photo.jpg)
 
 This instilled a lot of lessons in me early on. Give a good balance of work and reward upon completion; evaluate and optimize processes (8 pieces of bread out at a time vs 2 for sandwich making); and give others the respect they deserve and you’ll get it back 10x.
-
 ## This Girl Walks Into a Bar
 I started working in the restaurant industry at the young age of 12. I quickly learned the lay of the land, saw inefficiencies and offered to fix them. This started with updating the menu with descriptions and pricing, then having daily specials and better scheduling for staff. Pretty simple things. We then expanded the restaurant to include a patio space that brought seating from 18 bar seats to allowing us to seat 47 people at one time. With that, a P.O.S. system was needed to create more efficiency for a minimally staffed restaurant (1 line cook, 1 server, 1 prep cook/dishwasher). As business grew, we needed more staff and I was a part of that growth. I’m thankful that I had a unique situation in high school. I went to a private school during my last two years. I was working full time and going to school for two days a week, 11 hours each day. I also had the fortune of working for a business owner who had complete trust in me, a 15-year-old at the time, to run his entire restaurant. 
 
 ![breakfast-in-america](/assets/bia.png)
 
 That kicked off my work in hospitality and I’ve worked every position from front of the house, hostess to back of the house line cook, since then off and on for 15 years. What did that teach me? Empathy. A whole lot of empathy. It also taught me to read people pretty well and interpret what they needed before they asked for it. Customer first, give first, listen — really listen, then execute. These lessons all come into play in my everyday work now.
-
 ## Pivot Tables Are Your Friend
 My first “grown up” job during college was working at a ski resort in Durango, Colorado. I worked as a Group Sales and Conference Services Manager. This was back when we were attending ski shows, sending out direct mail campaigns (yep, postcards!) and partnering with these new third party sites called Expedia and Orbitz to gain traction. While this was mostly a paper and schmooze job, I found myself fascinated by the data of returning and non-returning groups, the patterns we saw year over year. I started digging into this, working with the marketing department and giving suggestions on optimizing our revenue with a balance of rooms over the years. This was a job no one wanted to do at the time, because Excel. But I swear to you, pivot tables are your friend. 
 
