@@ -1,12 +1,13 @@
 nav:
   home: Home
-  about: About
-  articles: Writing
+  about: About ✨
+  articles: Writing 📝
   tag: Tag
   category: Category
   projects: Projects
   search: Search
   conference: DinosaurJS
+  speaking: Speaking 🎤
 
 footer:
   copyright: Copyright
