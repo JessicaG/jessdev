@@ -1,0 +1,31 @@
+---
+title: Gluecon Spring 2013
+date: 2013-05-13
+cover_index: /assets/tree-water.jpg
+cover_detail: /assets/tree-water.jpg
+---
+I love conferences, no seriously, I do. Even better? When I get paid to go to them and learn all sorts of information. I had the opportunity to attend Gluecon this year, alongside Elaine Marino, my partner in crime at Commerce Kitchen.
+
+A bit of background on what exactly Gluecon is. No, it has nothing to do with Elmer’s glue. Eric Norlin is the organizer and puts on two conferences a year here in the Denver area (Broomfield to be exact): Gluecon is in the spring, and Defrag is in the fall, and he does an absolutely phenomenal job.
+
+There is some crossover between the two in relation to attendees, but there is also a big difference. While Defrag takes more of a business approach, focusing on the implementation of APIs on a corporate level, development tools for marketers and more, Gluecon is for the super nerds, covering topics such as Cloud, Mobile, API’s, Big Data, Node.js and Hadoop from a development perspective. This year’s agenda was filled with amazing speakers, and I was thoroughly impressed.
+
+“Glue is a case study of what a conference is supposed to be.”
+
+Gluecon typically starts with a hackathon on Tuesday night, then leads into a two day long conference on Wednesday and Thursday, where at the end of it all, your brain will be either mush or exploding with ideas and inspiration after hearing all these amazing people speak.
+
+Plus, the conference is structured so that you can go up to any speaker afterwards and have a solid conversation with them and make a great connection from it all. I know I have personally made some great friends from this conference specifically and I am sure I’m not the only one.
+
+At this year’s conference, I enjoyed:
+
+“Confessions of a Tech CEO Who Still Loves to Code Everyday”, from Lew Cirne, CEO of New Relic.
+He talked about how he is still able to do what he loves because the team he’s put into place helps balance his plate of to-dos. Because of this, he is able to take one weekend a month to code and contribute to his team. His talk was inspirational to many, showing developers and managers that it is possible to do both. Being a good speaker probably helps with this as well.
+
+“Creating Sustainable Documentation with Jekyll”, from Brandon West, Developer Evangelist at SendGrid.
+He discussed how important documentation is, as well as how to keep it sustainable. Hint, this is NOT done in WordPress!
+
+“Start Small & Go Big: Getting the Most from Google Compute Engine”, from Joe Beda at Google
+
+“The Pros and Cons of Choosing Go” from Brady Catherman at Apcera
+
+Overall the conference was a huge success this year and bonus, I saw a total of 19 women (double from last year)! I am looking forward to Defrag later on this fall; it should be another winner! If you have any questions or just want to chat, hit me up on twitter: @jessicag
