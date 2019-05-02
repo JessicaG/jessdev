@@ -27,9 +27,9 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  twitter: /jessicaewest
+  twitter: https://twitter.com/jessicaewest
   github: http://github.com/jessicag
-  linkedin: /jessicagwest
+  linkedin: https://www.linkedin.com/in/jessicagwest
   mail: mailto:hi@jesswe.st
   #medium: your-medium-url
 

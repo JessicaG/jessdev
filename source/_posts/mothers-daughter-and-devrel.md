@@ -1,5 +1,5 @@
 ---
-title: My Mothers Daughter and Developer Relations
+title: My Mother's Daughter and Developer Relations
 date: 2019-05-02
 ---
 I realize as I get older, I take after my mother in many ways. I’m often losing my keys, phone, wallet, leaving the hair straightener on, the list goes on. But one thing I love is her uncanny strength to see the best in people and the belief that many things happen for a reason. Of course as highly Type A person in my career, I’ve always told her that was ridiculous and I was in charge of my destiny and no one could change that. A will always be followed by B, we don’t skip to G. 
