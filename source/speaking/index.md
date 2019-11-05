@@ -5,6 +5,14 @@ date: 2019-05-02 07:03:49
 
 ![jess speaking](/assets/jess-tokyo-speaking.jpg)
 
+**[MongoDB London](https://mongodblocallondon.splashthat.com/)**
+London, Englad 📆 September 25th 2019
+**[EuroPython Basel](https://ep2019.europython.eu/)**
+Basel, Switzerland 📆 July 8th-14th 2019
+**[MongoDB World](https://www.mongodb.com/blog/post/mongodb-world-2019-the-recap)**
+New York City, NY 📆 June 17th & 18th 2019
+**[DevRelCon SF](https://sf2019.devrel.net/)**
+San Francisco, CA 📆 June 6th & 7th 2019
 **[Algolia Community Party](https://www.eventbrite.com/e/algolia-community-party-in-london-tickets-51284790188)**
 London, England 📆 November 5th 2018
 **[Panel: Denvers Talent Problem](https://www.denverstartupweek.org/schedule/4582-denver-s-talent-problem)**
