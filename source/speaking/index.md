@@ -5,8 +5,28 @@ date: 2019-05-02 07:03:49
 
 ![jess speaking](/assets/jess-tokyo-speaking.jpg)
 
+**[DevRel Asia](https://devrel.dev/asia-2020/speakers/jessica/)**
+Online 📆 November 14th 2020
+**[Trajecotry - LIVE](https://www.trajectoryconf.com/)**
+Online 📆 August 26th - 27th 2020
+**[Shifting to Online Community - Panel](https://www.heavybit.com/library/blog/shifting-to-online-community-the-future-of-devrel/)**
+Online 📆 August 5th 2020
+**[MC Engineering Leadership Summit: Week 6](https://codeclimate.com/blog/virtual-engineering-leadership-summit-2020/)**
+Online 📆 July 23rd 2020
+**[MC Engineering Leadership Summit: Week 5](https://codeclimate.com/blog/virtual-engineering-leadership-summit-2020/)**
+Online 📆 July 16th 2020
+**[FlyLess - Measuring Developer Relations](https://www.youtube.com/watch?v=F4iL6aceG3A)**
+Online 📆 July 15th 2020
+**[MC Engineering Leadership Summit: Week 4](https://codeclimate.com/blog/virtual-engineering-leadership-summit-2020/)**
+Online 📆 July 9th 2020
+**[MC Engineering Leadership Summit: Week 3](https://codeclimate.com/blog/virtual-engineering-leadership-summit-2020/)**
+Online 📆 July 2nd 2020
+**[MC Engineering Leadership Summit: Week 2](https://codeclimate.com/blog/virtual-engineering-leadership-summit-2020/)**
+Online 📆 June 15th 2020
+**[DevRelCon London](https://london-2019.devrel.net/speaker/)**
+London, England 📆 December 10th & 11th 2019
 **[MongoDB London](https://mongodblocallondon.splashthat.com/)**
-London, Englad 📆 September 25th 2019
+London, England 📆 September 25th 2019
 **[EuroPython Basel](https://ep2019.europython.eu/)**
 Basel, Switzerland 📆 July 8th-14th 2019
 **[MongoDB World](https://www.mongodb.com/blog/post/mongodb-world-2019-the-recap)**
