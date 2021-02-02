@@ -1,5 +1,5 @@
 ---
-title:To Virtual Conference or To Not... That is the question
+title: To Virtual Conference or To Not... That is the question
 date: 2020-05-18
 ---
 
