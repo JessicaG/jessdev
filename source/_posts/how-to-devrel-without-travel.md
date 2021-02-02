@@ -1,5 +1,5 @@
 ---
-title: Back to Basics: How to DevRel without Travel
+title: Back to Basics - How to DevRel without Travel
 date: 2020-04-11
 ---
 
